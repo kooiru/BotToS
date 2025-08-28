@@ -1,0 +1,2 @@
+# BotToS
+Term of Service
